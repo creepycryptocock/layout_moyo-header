@@ -1,3 +1,7 @@
+:root {
+  --text-color-hover: #00acdc;
+}
+
 html {
   font-family: Roboto, Arial, sans-serif;
   font-size: 12px;
@@ -6,8 +10,6 @@ html {
 
 body {
   margin: 0;
-
-  --text-color-hover: #00acdc;
 }
 
 .header {
